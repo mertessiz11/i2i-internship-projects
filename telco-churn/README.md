@@ -2,7 +2,7 @@
 
 
 
-Merhaba ben Mert Eşsiz. Bu proje i2i Systems staj başvurusu kapsamında hazırladığım 
+Merhaba ben Mert Eşsiz. Bu proje i2i Systems staj başvurusu kapsamında hazırladığım
 
 bir veri analizi ve makine öğrenmesi çalışması.
 
@@ -16,7 +16,7 @@ Bir telekomünikasyon şirketinin 7043 müşterisine ait veriyi analiz ederek
 
 hangi müşterilerin aboneliği bırakacağını (churn) tahmin etmeye çalıştım.
 
-i2i Systems'in Telco alanında faaliyet göstermesi bu projeyi benim için 
+i2i Systems'in Telco alanında faaliyet göstermesi bu projeyi benim için
 
 daha da anlamlı kıldı.
 
@@ -26,13 +26,13 @@ daha da anlamlı kıldı.
 
 
 
-\- Müşterilerin \*\*%26.54'ü\*\* aboneliği bırakmış
+\- Müşterilerin %26.54'ü aboneliği bırakmış
 
-\- Churn'ü en çok etkileyen faktörler: \*\*TotalCharges, MonthlyCharges ve tenure\*\*
+\- Churn'ü en çok etkileyen faktörler: TotalCharges, MonthlyCharges ve tenure
 
 \- Aylık sözleşmesi olan müşteriler yıllık sözleşmelilere göre çok daha fazla ayrılıyor
 
-\- Random Forest modeli \*\*%79.56 doğruluk\*\* oranı elde etti
+\- Random Forest modeli %79.56 doğruluk oranı elde etti
 
 
 
